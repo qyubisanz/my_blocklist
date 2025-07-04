@@ -1,0 +1,569 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "ad.doubleclick.net"
+    },
+    {
+      "domain": "ad.menang123.com"
+    },
+    {
+      "domain": "adc3-launch.adcolony.com"
+    },
+    {
+      "domain": "adform.net"
+    },
+    {
+      "domain": "adfox.yandex.ru"
+    },
+    {
+      "domain": "adfstat.yandex.ru"
+    },
+    {
+      "domain": "adk2.co"
+    },
+    {
+      "domain": "adm.hotjar.com"
+    },
+    {
+      "domain": "admob.com"
+    },
+    {
+      "domain": "adnxs.com"
+    },
+    {
+      "domain": "ads-api.tiktok.com"
+    },
+    {
+      "domain": "ads-api.twitter.com"
+    },
+    {
+      "domain": "ads-sg.tiktok.com"
+    },
+    {
+      "domain": "ads.facebook.com"
+    },
+    {
+      "domain": "ads.google.com"
+    },
+    {
+      "domain": "ads.instagram.com"
+    },
+    {
+      "domain": "ads.linkedin.com"
+    },
+    {
+      "domain": "ads.pinterest.com"
+    },
+    {
+      "domain": "ads.snapchat.com"
+    },
+    {
+      "domain": "ads.tiktok.com"
+    },
+    {
+      "domain": "ads.twitter.com"
+    },
+    {
+      "domain": "ads.yahoo.com"
+    },
+    {
+      "domain": "ads.youtube.com"
+    },
+    {
+      "domain": "ads30.adcolony.com"
+    },
+    {
+      "domain": "adsafeprotected.com"
+    },
+    {
+      "domain": "adsbygoogle.com"
+    },
+    {
+      "domain": "adsco.re"
+    },
+    {
+      "domain": "adsdelivery1.com"
+    },
+    {
+      "domain": "adserver.unityads.unity3d.com"
+    },
+    {
+      "domain": "adservetx.media.net"
+    },
+    {
+      "domain": "adservice.google.com"
+    },
+    {
+      "domain": "adsfs.oppomobile.com"
+    },
+    {
+      "domain": "adskeeper.co.uk"
+    },
+    {
+      "domain": "adsterra.com"
+    },
+    {
+      "domain": "adtago.s3.amazonaws.com"
+    },
+    {
+      "domain": "adtech.yahooinc.com"
+    },
+    {
+      "domain": "advice-ads.s3.amazonaws.com"
+    },
+    {
+      "domain": "adx.ads.oppomobile.com"
+    },
+    {
+      "domain": "afs.googlesyndication.com"
+    },
+    {
+      "domain": "alert-virusandroid.com"
+    },
+    {
+      "domain": "an.facebook.com"
+    },
+    {
+      "domain": "analytics-api.samsunghealthcn.com"
+    },
+    {
+      "domain": "analytics-sg.tiktok.com"
+    },
+    {
+      "domain": "analytics.google.com"
+    },
+    {
+      "domain": "analytics.pinterest.com"
+    },
+    {
+      "domain": "analytics.pointdrive.linkedin.com"
+    },
+    {
+      "domain": "analytics.query.yahoo.com"
+    },
+    {
+      "domain": "analytics.s3.amazonaws.com"
+    },
+    {
+      "domain": "analytics.tiktok.com"
+    },
+    {
+      "domain": "analytics.yahoo.com"
+    },
+    {
+      "domain": "analyticsengine.s3.amazonaws.com"
+    },
+    {
+      "domain": "androidwarningalert.com"
+    },
+    {
+      "domain": "api-adservices.apple.com"
+    },
+    {
+      "domain": "api.ad.xiaomi.com"
+    },
+    {
+      "domain": "api.bugsnag.com"
+    },
+    {
+      "domain": "api.luckyorange.com"
+    },
+    {
+      "domain": "api.mouseflow.com"
+    },
+    {
+      "domain": "app.bugsnag.com"
+    },
+    {
+      "domain": "app.getsentry.com"
+    },
+    {
+      "domain": "appmetrica.yandex.ru"
+    },
+    {
+      "domain": "auction.unityads.unity3d.com"
+    },
+    {
+      "domain": "bdapi-ads.realmemobile.com"
+    },
+    {
+      "domain": "bdapi-in-ads.realmemobile.com"
+    },
+    {
+      "domain": "bluekai.com"
+    },
+    {
+      "domain": "books-analytics-events.apple.com"
+    },
+    {
+      "domain": "browser.sentry-cdn.com"
+    },
+    {
+      "domain": "business-api.tiktok.com"
+    },
+    {
+      "domain": "careers.hotjar.com"
+    },
+    {
+      "domain": "cdn-test.mouseflow.com"
+    },
+    {
+      "domain": "cdn.doubleverify.com"
+    },
+    {
+      "domain": "cdn.luckyorange.com"
+    },
+    {
+      "domain": "cdn.mouseflow.com"
+    },
+    {
+      "domain": "ck.ads.oppomobile.com"
+    },
+    {
+      "domain": "claritybt.freshmarketer.com"
+    },
+    {
+      "domain": "click.googleanalytics.com"
+    },
+    {
+      "domain": "click.oneplus.cn"
+    },
+    {
+      "domain": "config.unityads.unity3d.com"
+    },
+    {
+      "domain": "cs.luckyorange.net"
+    },
+    {
+      "domain": "data.ads.oppomobile.com"
+    },
+    {
+      "domain": "data.mistat.india.xiaomi.com"
+    },
+    {
+      "domain": "data.mistat.rus.xiaomi.com"
+    },
+    {
+      "domain": "data.mistat.xiaomi.com"
+    },
+    {
+      "domain": "doubleclick.net"
+    },
+    {
+      "domain": "events.hotjar.io"
+    },
+    {
+      "domain": "events.reddit.com"
+    },
+    {
+      "domain": "events.redditmedia.com"
+    },
+    {
+      "domain": "events3alt.adcolony.com"
+    },
+    {
+      "domain": "exdynsrv.com"
+    },
+    {
+      "domain": "extmaps-api.yandex.net"
+    },
+    {
+      "domain": "freshmarketer.com"
+    },
+    {
+      "domain": "fwtracks.freshmarketer.com"
+    },
+    {
+      "domain": "gacor123.org"
+    },
+    {
+      "domain": "gemini.yahoo.com"
+    },
+    {
+      "domain": "geo.yahoo.com"
+    },
+    {
+      "domain": "gogetssl.com"
+    },
+    {
+      "domain": "google-analytics.com"
+    },
+    {
+      "domain": "googlesyndication.com"
+    },
+    {
+      "domain": "grs.hicloud.com"
+    },
+    {
+      "domain": "gtm.mouseflow.com"
+    },
+    {
+      "domain": "iadsdk.apple.com"
+    },
+    {
+      "domain": "identify.hotjar.com"
+    },
+    {
+      "domain": "iklan-push.com"
+    },
+    {
+      "domain": "iklan123.vip"
+    },
+    {
+      "domain": "iklanjitu.pro"
+    },
+    {
+      "domain": "insights.hotjar.com"
+    },
+    {
+      "domain": "iot-eu-logser.realme.com"
+    },
+    {
+      "domain": "iot-logser.realme.com"
+    },
+    {
+      "domain": "jsdelivr.net"
+    },
+    {
+      "domain": "log.byteoversea.com"
+    },
+    {
+      "domain": "log.fc.yahoo.com"
+    },
+    {
+      "domain": "log.pinterest.com"
+    },
+    {
+      "domain": "logbak.hicloud.com"
+    },
+    {
+      "domain": "logservice.hicloud.com"
+    },
+    {
+      "domain": "logservice1.hicloud.com"
+    },
+    {
+      "domain": "luckyorange.com"
+    },
+    {
+      "domain": "m.doubleclick.net"
+    },
+    {
+      "domain": "media.net"
+    },
+    {
+      "domain": "mediavisor.doubleclick.net"
+    },
+    {
+      "domain": "menang123.com"
+    },
+    {
+      "domain": "metrics.data.hicloud.com"
+    },
+    {
+      "domain": "metrics.icloud.com"
+    },
+    {
+      "domain": "metrics.mzstatic.com"
+    },
+    {
+      "domain": "metrics2.data.hicloud.com"
+    },
+    {
+      "domain": "metrika.yandex.ru"
+    },
+    {
+      "domain": "moatads.com"
+    },
+    {
+      "domain": "mobiledefender-scan.com"
+    },
+    {
+      "domain": "mouseflow.com"
+    },
+    {
+      "domain": "nmetrics.samsung.com"
+    },
+    {
+      "domain": "notes-analytics-events.apple.com"
+    },
+    {
+      "domain": "notify.bugsnag.com"
+    },
+    {
+      "domain": "o2.mouseflow.com"
+    },
+    {
+      "domain": "offerwall.yandex.net"
+    },
+    {
+      "domain": "open.oneplus.net"
+    },
+    {
+      "domain": "outbrain.com"
+    },
+    {
+      "domain": "pagead2.googleadservices.com"
+    },
+    {
+      "domain": "pagead2.googlesyndication.com"
+    },
+    {
+      "domain": "partnerads.ysm.yahoo.com"
+    },
+    {
+      "domain": "pixel.facebook.com"
+    },
+    {
+      "domain": "playprotectsecurity.com"
+    },
+    {
+      "domain": "popads.net"
+    },
+    {
+      "domain": "popcash.net"
+    },
+    {
+      "domain": "propellerads.com"
+    },
+    {
+      "domain": "protect-device.com"
+    },
+    {
+      "domain": "realtime.luckyorange.com"
+    },
+    {
+      "domain": "redirectvoluum.com"
+    },
+    {
+      "domain": "revcontent.com"
+    },
+    {
+      "domain": "rtpmenang.top"
+    },
+    {
+      "domain": "samsung-com.112.2o7.net"
+    },
+    {
+      "domain": "samsungads.com"
+    },
+    {
+      "domain": "scatterhitamgacor.com"
+    },
+    {
+      "domain": "script.hotjar.com"
+    },
+    {
+      "domain": "sdkconfig.ad.intl.xiaomi.com"
+    },
+    {
+      "domain": "sdkconfig.ad.xiaomi.com"
+    },
+    {
+      "domain": "securepubads.g.doubleclick.net"
+    },
+    {
+      "domain": "security-scanner-alert.com"
+    },
+    {
+      "domain": "sessions.bugsnag.com"
+    },
+    {
+      "domain": "settings.luckyorange.net"
+    },
+    {
+      "domain": "slotgacor.pro"
+    },
+    {
+      "domain": "smetrics.samsung.com"
+    },
+    {
+      "domain": "ssl.google-analytics.com"
+    },
+    {
+      "domain": "static.ads-twitter.com"
+    },
+    {
+      "domain": "static.doubleclick.net"
+    },
+    {
+      "domain": "static.media.net"
+    },
+    {
+      "domain": "stats.g.doubleclick.net"
+    },
+    {
+      "domain": "stats.wp.com"
+    },
+    {
+      "domain": "surveys.hotjar.com"
+    },
+    {
+      "domain": "taboola.com"
+    },
+    {
+      "domain": "tools.mouseflow.com"
+    },
+    {
+      "domain": "tracking"
+    },
+    {
+      "domain": "tracking.rus.miui.com"
+    },
+    {
+      "domain": "trafficjunky.net"
+    },
+    {
+      "domain": "trk.pinterest.com"
+    },
+    {
+      "domain": "udc.yahoo.com"
+    },
+    {
+      "domain": "udcm.yahoo.com"
+    },
+    {
+      "domain": "upload.luckyorange.net"
+    },
+    {
+      "domain": "virus-detect-notice.com"
+    },
+    {
+      "domain": "w1.luckyorange.com"
+    },
+    {
+      "domain": "warningandroidvirus.com"
+    },
+    {
+      "domain": "wd.adcolony.com"
+    },
+    {
+      "domain": "weather-analytics-events.apple.com"
+    },
+    {
+      "domain": "webview.unityads.unity3d.com"
+    },
+    {
+      "domain": "win88slot.com"
+    },
+    {
+      "domain": "www.adsterra.com"
+    },
+    {
+      "domain": "www.menang123.com"
+    },
+    {
+      "domain": "www.popads.net"
+    },
+    {
+      "domain": "www.propellerads.com"
+    },
+    {
+      "domain": "yieldmo.com"
+    },
+    {
+      "domain": "zedo.com"
+    }
+  ]
+}
